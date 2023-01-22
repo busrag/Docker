@@ -1,4 +1,4 @@
-# Running Docker with virtual machine 乁( • ω •乁)
+# Running Docker with virtual machine. 乁( • ω •乁) 
 
 ✺ **Docker install.**
 
